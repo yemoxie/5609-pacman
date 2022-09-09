@@ -15,3 +15,7 @@ Firstly, the direction of the ghost is judged, and the integer variable Vychody 
 Motion Regulation of Ghosts
 
 Just like Pac-Man
+
+
+<strong>Issue</strong>
+In the random movement of the ghost, it is possible to return to the previous place. Need to be solved
