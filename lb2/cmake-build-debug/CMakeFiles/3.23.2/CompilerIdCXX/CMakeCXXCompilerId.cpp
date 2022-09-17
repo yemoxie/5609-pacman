@@ -368,7 +368,7 @@
     /* _MSC_FULL_VER = VVRRPPPP */
 #   define COMPILER_VERSION_PATCH DEC(_MSC_FULL_VER % 10000)
 #  endif
-# endif
+# endif 
 # if defined(_MSC_BUILD)
 #  define COMPILER_VERSION_TWEAK DEC(_MSC_BUILD)
 # endif
