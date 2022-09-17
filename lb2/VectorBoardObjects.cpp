@@ -1,7 +1,3 @@
-//
-// Created by Nick Fan on 26/08/2022.
-//
-
 #include "VectorBoardObjectsH.h"
 #include "Vector"
 #include "BoardObjectH.h"
