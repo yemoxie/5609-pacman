@@ -1,4 +1,4 @@
-"C:\Program Files\JetBrains\CLion 2022.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" -S D:\桌面\CP5609-Lab2 -B D:\桌面\CP5609-Lab2\cmake-build-debug
+"C:\Program Files\JetBrains\CLion 2022.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" -S C:\桌面\lb2 -B C:\桌面\lb2\cmake-build-debug
 -- The C compiler identification is GNU 8.1.0
 -- The CXX compiler identification is GNU 8.1.0
 -- Detecting C compiler ABI info
@@ -13,4 +13,4 @@
 -- Detecting CXX compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: D:/桌面/CP5609-Lab2/cmake-build-debug
+-- Build files have been written to: C:/桌面/lb2/cmake-build-debug
