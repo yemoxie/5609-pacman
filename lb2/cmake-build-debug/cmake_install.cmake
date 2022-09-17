@@ -1,4 +1,4 @@
-# Install script for directory: D:/桌面/CP5609-Lab2
+# Install script for directory: C:/桌面/lb2
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/桌面/CP5609-Lab2/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/桌面/lb2/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
