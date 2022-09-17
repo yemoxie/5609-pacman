@@ -8,15 +8,15 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "D:/桌面/CP5609-Lab2/Board.cpp" "CMakeFiles/CP5609-Lab2.dir/Board.cpp.obj" "gcc" "CMakeFiles/CP5609-Lab2.dir/Board.cpp.obj.d"
-  "D:/桌面/CP5609-Lab2/Bomb.cpp" "CMakeFiles/CP5609-Lab2.dir/Bomb.cpp.obj" "gcc" "CMakeFiles/CP5609-Lab2.dir/Bomb.cpp.obj.d"
-  "D:/桌面/CP5609-Lab2/Cookie.cpp" "CMakeFiles/CP5609-Lab2.dir/Cookie.cpp.obj" "gcc" "CMakeFiles/CP5609-Lab2.dir/Cookie.cpp.obj.d"
-  "D:/桌面/CP5609-Lab2/ListBoardObejcts.cpp" "CMakeFiles/CP5609-Lab2.dir/ListBoardObejcts.cpp.obj" "gcc" "CMakeFiles/CP5609-Lab2.dir/ListBoardObejcts.cpp.obj.d"
-  "D:/桌面/CP5609-Lab2/Monster.cpp" "CMakeFiles/CP5609-Lab2.dir/Monster.cpp.obj" "gcc" "CMakeFiles/CP5609-Lab2.dir/Monster.cpp.obj.d"
-  "D:/桌面/CP5609-Lab2/Player.cpp" "CMakeFiles/CP5609-Lab2.dir/Player.cpp.obj" "gcc" "CMakeFiles/CP5609-Lab2.dir/Player.cpp.obj.d"
-  "D:/桌面/CP5609-Lab2/VectorBoardObjects.cpp" "CMakeFiles/CP5609-Lab2.dir/VectorBoardObjects.cpp.obj" "gcc" "CMakeFiles/CP5609-Lab2.dir/VectorBoardObjects.cpp.obj.d"
-  "D:/桌面/CP5609-Lab2/VladPackManGame.cpp" "CMakeFiles/CP5609-Lab2.dir/VladPackManGame.cpp.obj" "gcc" "CMakeFiles/CP5609-Lab2.dir/VladPackManGame.cpp.obj.d"
-  "D:/桌面/CP5609-Lab2/Wall.cpp" "CMakeFiles/CP5609-Lab2.dir/Wall.cpp.obj" "gcc" "CMakeFiles/CP5609-Lab2.dir/Wall.cpp.obj.d"
+  "C:/桌面/lb2/Board.cpp" "CMakeFiles/lb2.dir/Board.cpp.obj" "gcc" "CMakeFiles/lb2.dir/Board.cpp.obj.d"
+  "C:/桌面/lb2/Bomb.cpp" "CMakeFiles/lb2.dir/Bomb.cpp.obj" "gcc" "CMakeFiles/lb2.dir/Bomb.cpp.obj.d"
+  "C:/桌面/lb2/Cookie.cpp" "CMakeFiles/lb2.dir/Cookie.cpp.obj" "gcc" "CMakeFiles/lb2.dir/Cookie.cpp.obj.d"
+  "C:/桌面/lb2/ListBoardObejcts.cpp" "CMakeFiles/lb2.dir/ListBoardObejcts.cpp.obj" "gcc" "CMakeFiles/lb2.dir/ListBoardObejcts.cpp.obj.d"
+  "C:/桌面/lb2/Monster.cpp" "CMakeFiles/lb2.dir/Monster.cpp.obj" "gcc" "CMakeFiles/lb2.dir/Monster.cpp.obj.d"
+  "C:/桌面/lb2/Player.cpp" "CMakeFiles/lb2.dir/Player.cpp.obj" "gcc" "CMakeFiles/lb2.dir/Player.cpp.obj.d"
+  "C:/桌面/lb2/VectorBoardObjects.cpp" "CMakeFiles/lb2.dir/VectorBoardObjects.cpp.obj" "gcc" "CMakeFiles/lb2.dir/VectorBoardObjects.cpp.obj.d"
+  "C:/桌面/lb2/VladPackManGame.cpp" "CMakeFiles/lb2.dir/VladPackManGame.cpp.obj" "gcc" "CMakeFiles/lb2.dir/VladPackManGame.cpp.obj.d"
+  "C:/桌面/lb2/Wall.cpp" "CMakeFiles/lb2.dir/Wall.cpp.obj" "gcc" "CMakeFiles/lb2.dir/Wall.cpp.obj.d"
   )
 
 # Targets to which this target links.
