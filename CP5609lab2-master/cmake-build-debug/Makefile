@@ -97,7 +97,7 @@ clean:
 .PHONY : clean
 
 # The main clean target
-clean/fast: clean
+clean/fast: clean 
 .PHONY : clean/fast
 
 # Prepare targets for installation.
